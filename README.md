@@ -1,4 +1,4 @@
-markdown
+
 # 📅 Agenda App - Backend
 
 API RESTful para gerenciamento de agenda de contatos. Desenvolvido com Node.js e Express como exemplo prático durante aulas.
